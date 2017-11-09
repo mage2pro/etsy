@@ -1,4 +1,4 @@
-The extension integrates your Magento 2 based webstore with the **[Etsy](https://en.wikipedia.org/wiki/Etsy)** marketplace (focused on handmade or vintage items and supplies, as well as unique factory-manufactured items).  
+This extension integrates a Magento 2 based webstore with the **[Etsy](https://en.wikipedia.org/wiki/Etsy)** marketplace (focused on handmade or vintage items and supplies, as well as unique factory-manufactured items).  
 
 ## How to buy
 The extension is not released yet, so there is no way to buy it just now.  
